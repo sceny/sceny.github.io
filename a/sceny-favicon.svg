@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="SCENY favicon">
+  <title>SCENY favicon</title>
+  <mask id="seamF" maskUnits="userSpaceOnUse" x="-4.4" y="-4.4" width="40.8" height="40.8">
+    <rect x="-4.4" y="-4.4" width="40.8" height="40.8" fill="#fff"/>
+    <path d="M16 1 A7.5 7.5 0 0 1 16 16 A7.5 7.5 0 0 0 16 31" fill="none" stroke="#000" stroke-width="3.4" stroke-linecap="round"/>
+  </mask>
+  <g mask="url(#seamF)">
+    <path d="M16 1 A7.5 7.5 0 0 1 16 16 A7.5 7.5 0 0 0 16 31 A15 15 0 0 1 16 1 Z" fill="#2C4BFF"/>
+    <path d="M16 1 A7.5 7.5 0 0 1 16 16 A7.5 7.5 0 0 0 16 31 A15 15 0 0 0 16 1 Z" fill="#FFB020"/>
+  </g>
+</svg>

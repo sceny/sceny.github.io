@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 190" width="496" height="190" role="img" aria-label="SCENY horizontal logo lockup">
+  <title>SCENY logo — horizontal lockup</title>
+  <g transform="translate(33.8,34.8) scale(0.47)">
+    <mask id="seamLH" maskUnits="userSpaceOnUse" x="12" y="12" width="232" height="232">
+      <rect x="12" y="12" width="232" height="232" fill="#fff"/>
+      <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228" fill="none" stroke="#000" stroke-width="14" stroke-linecap="round"/>
+    </mask>
+    <g mask="url(#seamLH)">
+      <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228 A100 100 0 0 1 128 28 Z" fill="#2C4BFF"/>
+      <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228 A100 100 0 0 0 128 28 Z" fill="#FFB020"/>
+    </g>
+  </g>
+  <text x="164" y="118" font-family="Inter, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800"
+        letter-spacing="13.2" fill="#111428">SCENY</text>
+</svg>
