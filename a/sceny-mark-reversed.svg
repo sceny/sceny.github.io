@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="SCENY mark in white, for dark backgrounds">
+  <title>SCENY mark — reversed (white)</title>
+  <mask id="seamR" maskUnits="userSpaceOnUse" x="13" y="13" width="230" height="230">
+    <rect x="13" y="13" width="230" height="230" fill="#fff"/>
+    <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228" fill="none" stroke="#000" stroke-width="13" stroke-linecap="round"/>
+  </mask>
+  <g mask="url(#seamR)">
+    <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228 A100 100 0 0 1 128 28 Z" fill="#FFFFFF"/>
+    <path d="M128 28 A50.0 50.0 0 0 1 128 128 A50.0 50.0 0 0 0 128 228 A100 100 0 0 0 128 28 Z" fill="#FFFFFF"/>
+  </g>
+</svg>
